@@ -1,0 +1,55 @@
+
+Field Titles 12 pt Bold
+
+Field Content is 12 pt
+
+Exactly 3 Lines of Space between fields unless specified otherwise.
+
+Always show fields as Field Name – content, never stack content below the label.
+
+Clickable Links: Website, Email, Phone, Contact Email, Contact Phone, Address (Google)
+
+
+Organization Name - Hide the Organization Field Name, The Organization Name should be TITLE CASED: Bold, 24 pt, Centered
+
+Exactly 4 Lines of space after Organization Name
+
+Veteran Resources – Bold Field Title, 12 pt, Content Italic, 12 pt
+
+Exactly 5 Lines of Space after Veteran Resources 
+
+Types of Assistance 
+
+Exactly 5 Lines of Space
+
+Website
+
+Email
+
+Phone
+
+Contact Name
+
+Contact Title
+
+Contact Email
+
+Contact Phone
+
+Exactly 5 Lines of Space 
+
+Eligibility Requirements
+
+Application Process
+
+Documents Required
+
+Notes
+
+Distance from 34470 (mi)
+
+Address
+
+Operating Hours
+
+
