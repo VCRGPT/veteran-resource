@@ -1,0 +1,73 @@
+/* General body and container styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  color: #000;
+}
+
+#resultsContainer {
+  max-width: 900px;
+  margin: 0 auto;
+  overflow-y: auto;
+  max-height: 80vh;
+}
+
+/* Organization Name */
+.org-name {
+  font-weight: bold;
+  font-size: 24pt;
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 32px; /* 4 lines of space (~8px per line) */
+}
+
+/* Field wrapper for inline Field Title – content */
+.field-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  font-size: 12pt;
+  margin-bottom: 24px; /* Default 3 lines spacing */
+}
+
+/* Bold field title with margin-right for spacing */
+.field-title {
+  font-weight: bold;
+  margin-right: 8px;
+  white-space: nowrap;
+}
+
+/* Field content */
+.field-content {
+  font-style: normal;
+  flex: 1;
+}
+
+/* Italic content for Veteran Resources */
+.veteran-resources-content {
+  font-style: italic;
+}
+
+/* Extra spacing modifiers */
+.spacing-5 {
+  margin-bottom: 40px !important; /* 5 lines spacing */
+}
+
+/* Links */
+a {
+  color: blue;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+  .field-wrapper {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .field-title {
+    margin-right: 0;
+    margin-bottom: 4px;
+  }
+}
